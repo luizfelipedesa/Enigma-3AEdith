@@ -1,7 +1,7 @@
     :root{--cor-fundo:#dfe9f1 ; 
-        --cor-frases:#ffffff;
+        --cor-texto:#ffffff;
 
     }
     body {
         background-color: var(--cor-fundo);
-        background-color: var(--cor-frases)}
+        color: var(--cor-texto);
